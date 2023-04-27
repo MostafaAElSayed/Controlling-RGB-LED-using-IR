@@ -1,0 +1,4 @@
+LEDMRX_program.c:17:6:HLEDMRX_voidInit	8	static
+LEDMRX_program.c:38:6:HLEDMRX_voidDisplay	16	static
+LEDMRX_program.c:114:6:DisableAllColumns	8	static
+LEDMRX_program.c:126:6:SetRowValues	24	static

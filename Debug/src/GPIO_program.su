@@ -1,0 +1,3 @@
+GPIO_program.c:14:6:GPIO_VoidSetPinDirection	16	static
+GPIO_program.c:70:6:GPIO_VoidSetPinValue	16	static
+GPIO_program.c:121:4:GPIO_VoidGetPinValue	24	static
